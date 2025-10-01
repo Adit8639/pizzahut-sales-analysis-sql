@@ -1,6 +1,7 @@
 # Pizza Hut Sales Analysis (SQL Project)
 A full-scale sales analytics project for Pizza Hut, utilizing advanced SQL to transform transactional and product data into actionable business intelligence.
-## 📄 [View Analysis](./PizzaHUt%20SALES%20Analysis%20-%20MY%20SQL.pdf)
+📄 [View Analysis](./PizzaHUt%20SALES%20Analysis%20-%20MY%20SQL.pdf)
+
 
 
 ## Project Objectives
